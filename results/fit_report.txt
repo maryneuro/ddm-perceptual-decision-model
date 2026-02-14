@@ -1,0 +1,8 @@
+DDM quick fit report
+--------------------
+True drift:        0.350
+Fitted drift:      0.350
+Loss:              0.000032
+
+Observed  acc/mRT/sdRT: 0.678 / 1.080 / 0.870
+Predicted acc/mRT/sdRT: 0.680 / 1.078 / 0.861
