@@ -38,12 +38,19 @@ ddm-perceptual-decision-model/
 
 ---
 
+
 ## Installation
 
-```bash
 pip install -r requirements.txt
 
 ---
 
-##Run
+## Run
+
 python src/ddm_model.py
+
+---
+
+## Example Output
+
+![Model Fit](results/fit_overlay.png)
