@@ -25,6 +25,13 @@ This repository:
 
 ## Installation
 
+---
+
+## Installation
+
 ```bash
 pip install -r requirements.txt
+---
+Run
 python src/ddm_model.py
+---
