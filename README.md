@@ -42,3 +42,8 @@ ddm-perceptual-decision-model/
 
 ```bash
 pip install -r requirements.txt
+
+---
+
+##Run
+python src/ddm_model.py
