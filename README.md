@@ -1,4 +1,5 @@
 # Drift Diffusion Model (DDM)
+
 Simulation and quick parameter fitting for perceptual decision-making.
 
 This project implements a minimal Drift Diffusion Model (DDM) to simulate
@@ -23,7 +24,17 @@ This repository:
 
 ## Project Structure
 
-## Installation
+ddm-perceptual-decision-model/
+
+├── src/  
+│   └── ddm_model.py  
+├── results/  
+│   ├── decision_time_distribution.png  
+│   ├── fit_overlay.png  
+│   └── fit_report.txt  
+├── notebooks/  
+├── requirements.txt  
+└── README.md  
 
 ---
 
@@ -31,7 +42,5 @@ This repository:
 
 ```bash
 pip install -r requirements.txt
----
-Run
+
 python src/ddm_model.py
----
