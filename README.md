@@ -23,6 +23,7 @@ This repository:
 ---
 ## Project Structure
 
+
 ddm-perceptual-decision-model/
 ├── src/
 │   └── ddm_model.py
@@ -33,6 +34,7 @@ ddm-perceptual-decision-model/
 ├── notebooks/
 ├── requirements.txt
 └── README.md
+
 ---
 
 
