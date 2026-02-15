@@ -1,4 +1,11 @@
-# Drift Diffusion Model (DDM)
+
+Simulated reaction time distribution:
+
+![RT distribution](plots/decision_time_distribution.png)
+
+Model fit vs data:
+
+![Fit overlay](plots/fit_overlay.png)# Drift Diffusion Model (DDM)
 
 Simulation and quick parameter fitting for perceptual decision-making.
 
