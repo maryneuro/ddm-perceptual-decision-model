@@ -209,3 +209,7 @@ __marimo__/
 data/
 *.csv
 *.npz
+plots/
+
+plots/
+!plots/decision_time_distribution.png
