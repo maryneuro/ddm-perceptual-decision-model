@@ -50,8 +50,6 @@ python src/ddm_model.py
 
 ---
 
-## Example Output
-
 ## Example output
 
 ### Model fit
