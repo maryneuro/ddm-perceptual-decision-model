@@ -26,11 +26,11 @@ This repository:
 ddm-perceptual-decision-model/
 
 ├── src/
-│   └── ddm_model.py
+   └── ddm_model.py
 ├── results/
-│   ├── decision_time_distribution.png
-│   ├── fit_overlay.png
-│   └── fit_report.txt
+  ├── decision_time_distribution.png
+  ├── fit_overlay.png
+  └── fit_report.txt
 ├── notebooks/
 ├── requirements.txt
 └── README.md
