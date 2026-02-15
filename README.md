@@ -35,9 +35,9 @@ ddm-perceptual-decision-model/
 ├── notebooks/                   # Exploratory analysis (optional)
 ├── requirements.txt             # Dependencies
 └── README.md                    # Project documentation
+'''
+---
 
----
----
 
 ## Installation
 
