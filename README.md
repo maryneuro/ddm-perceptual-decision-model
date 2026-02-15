@@ -52,14 +52,13 @@ python src/ddm_model.py
 
 ## Example Output
 
+## Example output
 
-
-# Drift Diffusion Model (DDM)
-
-## Fit overlay
-
+### Model fit
 ![Fit overlay](plots/fit_overlay.png)
 
+### Simulated RT distribution
+![RT distribution](plots/decision_time_distribution.png)
 
 
 
