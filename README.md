@@ -23,19 +23,16 @@ This repository:
 ---
 ## Project Structure
 
-```text
-
 ddm-perceptual-decision-model/
 ├── src/
-│   └── ddm_model.py              # Core DDM simulation and fitting code
+│   └── ddm_model.py
 ├── results/
-│   ├── decision_time_distribution.png   # RT histogram
-│   ├── fit_overlay.png                  # Model vs data comparison
-│   └── fit_report.txt                  # Fitted parameters and summary stats
-├── notebooks/                   # Exploratory analysis (optional)
-├── requirements.txt             # Dependencies
-└── README.md                    # Project documentation
-text```
+│   ├── decision_time_distribution.png
+│   ├── fit_overlay.png
+│   └── fit_report.txt
+├── notebooks/
+├── requirements.txt
+└── README.md
 ---
 
 
